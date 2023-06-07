@@ -25,7 +25,7 @@ export default function App() {
         <div className="wall"></div> <div className="box"></div>
         <div className="box"></div> <div className="wall"></div>
         <div className="wall"></div> <div className="box"></div>
-        <div className="wa  ll"></div> <div className="box"></div>
+        <div className="wall"></div> <div className="box"></div>
         <div className="box"></div> <div className="wall"></div>
         <div className="wall"></div> <div className="wall"></div>
         <div className="wall"></div> <div className="wall"></div>
